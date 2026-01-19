@@ -1,0 +1,38 @@
+
+# Root
+.DS_Store
+.idea
+.vscode
+*.log
+
+# Backend
+backend/vendor/
+backend/node_modules/
+backend/public/build
+backend/public/hot
+backend/public/storage
+backend/storage/*.key
+backend/.env
+backend/.env.backup
+backend/.phpunit.result.cache
+backend/Homestead.json
+backend/Homestead.yaml
+backend/auth.json
+backend/npm-debug.log
+backend/yarn-error.log
+backend/.fleet
+backend/.vscode
+backend/.idea
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/.vercel
+frontend/*.tsbuildinfo
+frontend/next-env.d.ts
