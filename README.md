@@ -2,6 +2,16 @@
 
 DashX is a modern, comprehensive Student Management System designed to streamline educational administration. It features a robust backend built with Laravel and a dynamic, responsive frontend using Next.js.
 
+## 📸 Screenshots
+
+| Dashboard | Courses |
+|---|---|
+| ![Schedule](screenshots/schedule.png) | ![Courses](screenshots/courses.png) |
+
+| Staff Management | Data Export |
+|---|---|
+| ![Staff](screenshots/staff.png) | ![Export](screenshots/export.png) |
+
 ## 🏗 System Architecture
 
 ```mermaid
